@@ -1,0 +1,3 @@
+arena MiarenaB.arena
+agente -115 -140
+meta -140 -140

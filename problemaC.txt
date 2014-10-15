@@ -1,0 +1,3 @@
+arena MiarenaC.arena
+agente -595 -745
+meta -745 -745

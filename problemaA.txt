@@ -1,0 +1,3 @@
+arena MiarenaA.arena
+meta -23 -23
+agente -18 -24
